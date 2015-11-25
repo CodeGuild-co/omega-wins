@@ -10,7 +10,7 @@
             <li><a href="/posts/hello_world/">Hello World</a></li>
             <li><a href="/posts/Entry_1/">Alas only my first blog post</a></li>
             <li><a href="/posts/Entry_2/">This is the second blog Post</a></li>
-            <li><a href="/posts/Entry_3/">Funnily enough thiis be the third</a></li>
+            <li><a href="/posts/Entry_3/">Funnily enough this be the third</a></li>
           </ul>
       </li>
     </ul>
