@@ -13,15 +13,15 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <center><div class="col-md-6">
                     <h3>I've written MORE THAN one blog post!</h3>
                     <div class = "post_1")
                         <a href="/posts/entry_1/">First PROPER Blog post</a>
-                    
                     <div class = "post_2">
                         <a href="/posts/entry_2/">Secondary blog post</a>
                     <div class = "post_3">
                         <a href="/posts/entry_3/">The Third Blod Post</a>
+                    </center>
                     </div>
                 </div>
             </div>
