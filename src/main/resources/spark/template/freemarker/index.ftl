@@ -20,7 +20,7 @@
                     <div class = "post_2">
                         <a href="/posts/entry_2/">Secondary blog post</a>
                     <div class = "post_3">
-                        <a href="/posts/entry_3/">The Third Blod Post</a>
+                        <a href="/posts/entry_3/">The Third blog Post</a>
                     </center>
                     </div>
                 </div>
