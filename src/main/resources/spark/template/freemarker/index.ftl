@@ -19,6 +19,7 @@
                         <li><a href="/posts/hello_world/">Hello World</a></li>
                         <li><a href="/posts/entry_1/">First PROPER Blog post</a></li>
                         <li><a href="/posts/entry_2/">Secondary blog post</a></li>
+                        <li><a href="/posts/entry_3/">The Third Blod Post</a></li>
                         
                     </ul>
             </div>
