@@ -12,7 +12,7 @@
 
 Well here comes the comparison bit, I being me decided that Adobe’s rather wonderful Brackets would be the best one to look at because a) I’d like to see if it works as well as it looks and b) I might even change from Notepad if it works well enough because I’m just that shallow. Well after a short look I can instantly see that it’s missing the collapsing feature but I can live with that I guess as what caught my eye was the amount of add-ons including one called GITHUB INTEGRATION!
 </p>
-<a href = "https://camo.githubusercontent.com/56d76f83db78ca0a73d2acbe1f79414f9ac7b0bb/687474703a2f2f626568616e63652e766f2e6c6c6e77642e6e65742f70726f66696c657331352f323134373634372f70726f6a656374732f373239303333372f36313364353635323530323835616334656433623130613263343839383563622e706e67"A picture of some Brackets...yay?></a>
+<img src = "https://camo.githubusercontent.com/56d76f83db78ca0a73d2acbe1f79414f9ac7b0bb/687474703a2f2f626568616e63652e766f2e6c6c6e77642e6e65742f70726f66696c657331352f323134373634372f70726f6a656374732f373239303333372f36313364353635323530323835616334656433623130613263343839383563622e706e67"A picture of some Brackets...yay?>
 
         </div>
       </div>
