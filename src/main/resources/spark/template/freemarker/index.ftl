@@ -13,8 +13,8 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                   <center> <h3>I've written MORE THAN one blog post!</h3></center>
+                <div class="col-md-12">
+                   <center> <h3>I've written MORE THAN one blog post!</h3></center
                    <ul>
                     <br>
                         <li><center><a href="/posts/entry_1/">First PROPER Blog post</a></center></li>
