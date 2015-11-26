@@ -1,5 +1,5 @@
 .jumbotron {
-  background: #FF00CC;
+  background: #BCED91;
   color: dark-grey;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
@@ -27,11 +27,11 @@
     .body,
      html {
      margin:100;
-    padding:50;
-    color:#000;
-    background:#FADADD;
+    padding:50;nd:#84BE6A;
     margin-top: 30px;
      }
+    color:#000;
+    backgrou
     .col-md-6 p {
     
     }
