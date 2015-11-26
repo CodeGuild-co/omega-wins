@@ -15,11 +15,11 @@
             <div class="row">
                 <div class="col-md-6">
                    <center> <h3>I've written MORE THAN one blog post!</h3></center>
-                    
+                    <br>
                         <center><a href="/posts/entry_1/">First PROPER Blog post</a></center>
-                    
+                    <br>
                         <center><a href="/posts/entry_2/">Secondary blog post</a></center>
-                    
+                    <br>
                         <center><a href="/posts/entry_3/">The Third blog Post</a></center>
           </div>
         </div>
