@@ -13,7 +13,7 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-4">
                    <center> <h3>I've written MORE THAN one blog post!</h3></center>
                    <ul>
                     <br>
