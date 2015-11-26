@@ -21,6 +21,8 @@
                         <center><a href="/posts/entry_2/">Secondary blog post</a></center>
                     <br>
                         <center><a href="/posts/entry_3/">The Third blog Post</a></center>
+                    <br>
+                    <br>
           </div>
         </div>
     </body>
