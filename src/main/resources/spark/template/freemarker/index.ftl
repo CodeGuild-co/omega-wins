@@ -17,11 +17,11 @@
                    <center> <h3>I've written MORE THAN one blog post!</h3></center
                    <ul>
                     <br>
-                        <li><center><a href="/posts/entry_1/">First PROPER Blog post</a></center></li>
+                        <center><a href="/posts/entry_1/">First PROPER Blog post</a></center>
                     <br>
-                        <li><center><a href="/posts/entry_2/">Secondary blog post</a></center></li>
+                        <center><a href="/posts/entry_2/">Secondary blog post</a></center>
                     <br>
-                       <li><center><a href="/posts/entry_3/">The Third blog Post</a></center></li>
+                       <center><a href="/posts/entry_3/">The Third blog Post</a></center>
                     <ul>
                     <br>
                     <br>
