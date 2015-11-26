@@ -26,8 +26,8 @@
       max-width: 100%; }
     .body,
      html {
-     margin:0;
-    padding:0;
+     margin:100;
+    padding:50;
     color:#000;
     background:#a7a09a;
      }
